@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @philwonski
-- 👀 I’m interested in creating cool tools, esp for small teams like SMBs and non-profits
+- 👀 I’m interested in creating cool tools, esp for small teams inside SMBs and non-profits
 - 🌱 I’ve been learning webdev since 2003, emphasis lately on js and python microservices in AWS 
 - 💞️ I’m looking to collaborate on all things serverless, static sites, and Tiddlywiki 
 - 📫 Reach me on twitter @philwonski 
