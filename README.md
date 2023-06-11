@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @philwonski
-- 👀 I’m interested in creating cool tools, esp for small teams inside SMBs and non-profits
-- 🌱 I’ve been learning webdev since 2003, emphasis lately on js microservices in the cloud 
-- 💞️ I’m looking to collaborate on all things serverless, static sites, and Tiddlywiki 
+- 👀 I’m interested in creating cool tools, esp for small teams
+- 💙 My favorite things to code are integrations to new APIs (usually with nodejs)
+- 💞️ I’m looking to collaborate on all things serverless, APIs, and TiddlyWiki 
 - 📫 Reach me on twitter @philwonski 
 
 <!---
