@@ -7,7 +7,7 @@ I like building useful software, especially the kind that small teams end up usi
 
 My background is in data centers and hosting. In 2019, I began helping my wife with her web design business and its technical operations: coordinating developers, managing hosting infrastructure, securing deployments, and keeping projects version-controlled.
 
-In the 2020 quarantine, I took the opportunity to become a proper js dev.
+During the 2020 quarantine, I took the extra time at home as an opportunity to become a proper js dev.
 
 What started as a fascination with building lightweight applications evolved into several years of paid software development, particularly building custom interfaces on top of established business platforms... think of it as "custom skins" for tools like Salesforce and Quickbooks, since folks generally hate using such platforms and often need additional features. 
 
