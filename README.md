@@ -5,9 +5,9 @@ Business applications, integrations & independent products.
 
 I like building useful software, especially the kind that small teams end up using every day.
 
-My background is in data centers and hosting. In 2019, I began helping my wife with web design business and its technical operations: coordinating developers, managing hosting infrastructure, securing deployments, and keeping projects version-controlled.
+My background is in data centers and hosting. In 2019, I began helping my wife with her web design business and its technical operations: coordinating developers, managing hosting infrastructure, securing deployments, and keeping projects version-controlled.
 
-In the 2020 quarantine, I took the opportunity become a proper js dev.
+In the 2020 quarantine, I took the opportunity to become a proper js dev.
 
 What started as a fascination with building lightweight applications evolved into several years of paid software development, particularly building custom interfaces on top of established business platforms... think of it as "custom skins" for tools like Salesforce and Quickbooks, since folks generally hate using such platforms and often need additional features. 
 
@@ -80,7 +80,7 @@ A few favorites:
 
 **[Add Login to a Node.js App with Cloudflare Tunnel](https://mydigitalmark.com/add-login-to-nodejs-with-cloudflare-argo-tunnels/)**
 
-A walkthrough of using Cloudflare Tunnel and Zero Trust to securely expose a Node.js application running on an inexpensive VPS. Motivation: Auth was a big problem for us back in the day.
+A walkthrough of using Cloudflare Tunnel and Zero Trust to securely expose a Node.js application running on an inexpensive VPS. Motivation: Auth was a big problem for us back in the day (and still is, really... this article was a bit of a hit and stood atop Google results for a good while... it is still helpful despite Cloudflare changing their UI every few months).
 
 **[Serverless Form Submissions the Low-Code Way](https://mydigitalmark.com/serverless-form-submissions/)**
 
@@ -90,22 +90,24 @@ Building customized, stateful web forms using TiddlyWiki and serverless integrat
 
 An experiment in generating static websites using TiddlyWiki as a lightweight rendering engine. Motivation: you are not a real dev from the past if you did not try to make your own Static Site Generator. :-) 
 
-[Browse the full writing archive](https://mydigitalmark.com/author/philwonski/).
-
 *These are older posts. Some implementation details may have changed.*
 
 ---
 
 ## What I'm Working On Now
 
-My attention has increasingly turned toward developing and testing my own independent software products. My activity graph here on GitHub is a nod to long-term durability of my solutions, as all the commits on my graph here are in support of applications I first developed before AI; my [Gitlab graph](https://gitlab.com/philiwon/), on the other hand, is a testament to my increasing use of agents to increase ship velocity (it still excludes automated pushes).
+My attention has increasingly turned toward developing and testing my own independent software products. I am particularly interested in information-heavy markets, practical AI applications, API integrations and tools that make complicated work easier for people. 
 
-Today I am particularly interested in information-heavy markets, practical AI applications, API integrations and tools that make complicated work easier for people.
+My activity graph here on GitHub is a nod to long-term durability of my solutions, as all the commits on my graph here are in support of applications I first developed before AI; my [Gitlab graph](https://gitlab.com/philiwon/), on the other hand, is a testament to my increasing use of agents to increase ship velocity (it still excludes automated pushes).
+
+Selected Links:
 
 **[SubstationScout](https://substationscout.com)** — Energy infrastructure research and tools for the site selection community.
-**[LullabyMail](https://lullabymail.com)** — Using AI help parents build better connections with their children via daily storytelling.
-**(COMING SOON) Options Trading Software** — Early in my career I learned that I'm not great at investing, so I took up trading as an alternative way to get exposure to equities. It's been a really fun ride, and my skills increase every year. Over the years I have also developed some little personal tools to help me make decisions, and I'd like to share some of that here. One of the early tools is a simple alternative to standard deviations called [Does It Move](https://doesitmove.com), but later I would like to share more of my tools and finding such as timing entries into 0dte index options. 
 
-My philosophy hasn't changed much: use the tools that make sense, keep infrastructure manageable, and focus on building something genuinely useful.
+**[LullabyMail](https://lullabymail.com)** — Using AI help parents build better connections with their children via daily storytelling.
+
+**(COMING SOON) Options Trading Software** — Early in my career I learned that I'm not great at investing, so I took up trading as an alternative way to get exposure to equities. It's been a really fun ride, and my skills increase every year. Over the years I have also developed some little personal tools to help me make decisions, and I'd like to share some of that here. One of the early tools is a simple alternative to standard deviations called [Does It Move](https://doesitmove.com), but later I would like to share more of my tools and findings such as timing entries into 0dte index options. 
+
+Overall my philosophy hasn't changed much: use the tools that make sense, keep infrastructure manageable, and focus on building something genuinely useful.
 
 There is still no bigger thrill for me than seeing somebody use software I built to do their job a little better.
