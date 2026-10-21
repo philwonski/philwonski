@@ -11,9 +11,9 @@ My background is in data centers and hosting. In 2019, I began helping my wife w
 
 What started as a fascination with building lightweight applications evolved into several years of paid software development, particularly building custom interfaces on top of established business platforms. Basically, "custom skins" for tools like Salesforce and QuickBooks, since folks generally hate using such platforms and often need additional features.
 
-Along the way, I developed a preference for getting a lot of mileage out of relatively little code and infrastructure. Rather than assembling large development teams or building everything from scratch, I found ways to turn existing platforms into highly customized, purpose-built software for small businesses.
+Along the way, I developed a preference for getting a lot of mileage out of relatively little code and infrastructure. Rather than assembling large development teams or building everything from scratch, I found ways to turn existing platforms into highly customized, purpose-built software for small teams.
 
-It turned out to be a pretty good way to make a living as a solo developer, and an approach that has only become more interesting in the AI era.
+The approach made for sticky and repeat business, and the solo mechanics have become even more interesting in the AI era since now we have AI employees.
 
 The recurring idea: **Sometimes you don't need to replace your system of record. You just need a much better way to interact with it.**
 
@@ -51,7 +51,7 @@ Today, all eight team members can work together around individual job records, f
 
 One of my favorite discoveries of the pre-AI days was that TiddlyWiki — usually associated with personal note-taking — is also an incredibly capable JavaScript framework for rapidly building custom user interfaces.
 
-I became interested in using its Node.js edition to build lightweight business applications, integrating with external systems through REST APIs. This was important (and lucrative) because rapid UI development was the real friction when trying to ship solutions.
+I became interested in using its Node.js edition to build lightweight business applications, integrating with external systems through REST APIs. This was important because rapid UI development was the real friction when trying to ship solutions.
 
 This all led me to develop **HelloJson**, an opinionated approach to building TiddlyWiki plugins. The driving principle was to simplify async JavaScript so a developer could abstract more and more functionality behind a lean, human-readable control plane.
 
@@ -78,7 +78,7 @@ The advanced examples include external API requests, WordPress integration, JSON
 
 ## Technical Writing
 
-Up until the first time I tried ChatGPT, I also enjoyed writing about lightweight software architecture, serverless development and making sophisticated infrastructure accessible to small development teams.
+Up until the first time I tried ChatGPT, I was also interested in sharing my methods and writing about lightweight software architecture, serverless development and making sophisticated infrastructure accessible to small development teams.
 
 A few favorites:
 
@@ -126,4 +126,4 @@ Over the years I've developed little personal tools to help me make decisions, a
 
 Overall, my philosophy hasn't changed much: use the tools that make sense, keep infrastructure manageable, and focus on building something genuinely useful.
 
-There is still no bigger thrill for me than seeing somebody use software I built to do their job a little better.
+It's still a big thrill for me when I see somebody using software I built to make their job a little easier.
